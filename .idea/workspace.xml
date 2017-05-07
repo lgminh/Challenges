@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3ec39ca-48c2-4a4d-8ea5-4ce55bbe018d" name="Default" comment="" />
+    <list default="true" id="a3ec39ca-48c2-4a4d-8ea5-4ce55bbe018d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Medium/max_discount" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Medium/labyrinth2" afterPath="$PROJECT_DIR$/Medium/labyrinth2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Codefights.iml" afterPath="$PROJECT_DIR$/.idea/Codefights.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="larger.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Easy/larger.py">
+      <file leaf-file-name="max_discount" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Medium/max_discount">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,6 +45,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,16 +63,18 @@
         <option value="$PROJECT_DIR$/Medium/numbergameIII.py" />
         <option value="$PROJECT_DIR$/Medium/numbergame_III.py" />
         <option value="$PROJECT_DIR$/Easy/larger.py" />
+        <option value="$PROJECT_DIR$/Medium/max_discount" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1084" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -77,25 +90,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Codefights" />
+              <option name="myItemId" value="Codefights_Challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Codefights" />
+              <option name="myItemId" value="Codefights_Challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Codefights" />
+              <option name="myItemId" value="Codefights_Challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Codefights" />
+              <option name="myItemId" value="Codefights_Challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -105,46 +119,41 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Codefights" />
+              <option name="myItemId" value="Codefights_Challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Codefights" />
+              <option name="myItemId" value="Codefights_Challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Easy" />
+              <option name="myItemId" value="Hard" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Medium/number_game.py" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
   </component>
-  <component name="RunManager" selected="Python.numbergame_III">
-    <configuration default="false" name="number_game_I" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Codefights" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/number_game_I.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.max_discount">
     <configuration default="false" name="labyrinth" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,6 +169,7 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/labyrinth.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="labyrinth2" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -174,9 +184,10 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Codefights" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/labyrinth2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/labyrinth2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="number_game_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -194,6 +205,7 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/number_game_II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="numbergame_III" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -211,6 +223,25 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/numbergame_III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="max_discount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Codefights" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/max_discount" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -228,6 +259,7 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -240,25 +272,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Codefights" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Codefights" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -290,15 +303,10 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Codefights" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -311,19 +319,44 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Codefights" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Codefights" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.labyrinth" />
+      <item index="1" class="java.lang.String" itemvalue="Python.labyrinth2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.number_game_II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.numbergame_III" />
+      <item index="4" class="java.lang.String" itemvalue="Python.max_discount" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.max_discount" />
+        <item index="1" class="java.lang.String" itemvalue="Python.numbergame_III" />
+        <item index="2" class="java.lang.String" itemvalue="Python.number_game_II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.labyrinth2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.labyrinth" />
+      </list>
+    </recent_temporary>
+    <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -340,29 +373,8 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.number_game_I" />
-      <item index="1" class="java.lang.String" itemvalue="Python.labyrinth" />
-      <item index="2" class="java.lang.String" itemvalue="Python.labyrinth2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.number_game_II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.numbergame_III" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.numbergame_III" />
-        <item index="1" class="java.lang.String" itemvalue="Python.number_game_II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.labyrinth2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.labyrinth" />
-        <item index="4" class="java.lang.String" itemvalue="Python.number_game_I" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -387,19 +399,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3798024" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43527013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43578485" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37541163" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -429,21 +442,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Medium/number_game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Medium/number_game_I.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -451,9 +453,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -469,9 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -479,9 +476,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -497,9 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -507,9 +499,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -525,9 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,9 +522,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -553,9 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,9 +545,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -581,9 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -599,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -617,9 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,9 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,9 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,9 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,68 +722,20 @@
     <entry file="file://$PROJECT_DIR$/Easy/number_game.py" />
     <entry file="file://$PROJECT_DIR$/Easy/number_game.py" />
     <entry file="file://$PROJECT_DIR$/Easy/number_game.py" />
-    <entry file="file://$PROJECT_DIR$/Medium/number_game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/fractions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python27/Lib/fractions.py" />
     <entry file="file://$PROJECT_DIR$/Medium/number_game_I.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/numpy/core/defchararray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="1853" column="0" lean-forward="false" selection-start-line="1853" selection-start-column="0" selection-end-line="1853" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/numpy/core/numeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1868" column="0" lean-forward="false" selection-start-line="1868" selection-start-column="0" selection-end-line="1868" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hard/labyrinth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7182">
-          <caret line="267" column="23" lean-forward="false" selection-start-line="267" selection-start-column="23" selection-end-line="267" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/labyrinth2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/core/defchararray.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/core/numeric.py" />
     <entry file="file://$PROJECT_DIR$/Medium/number_game_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,14 +743,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/larger.py" />
+    <entry file="file://$PROJECT_DIR$/Medium/number_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/larger.py">
+    <entry file="file://$PROJECT_DIR$/Medium/labyrinth2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="1008">
+          <caret line="167" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/labyrinth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="267" column="23" lean-forward="false" selection-start-line="267" selection-start-column="23" selection-end-line="267" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/max_discount">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>

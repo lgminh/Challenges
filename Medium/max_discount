@@ -1,0 +1,16 @@
+
+def maxDiscount(prices):
+    left_item = middle_item = right_item = x = y = z = 0
+
+    for item in prices:
+        left_item, middle_item, right_item = middle_item, right_item, max(right_item, left_item + min([x, y, item]))
+        x = y
+        y = item
+
+    return right_item
+
+
+if __name__ == '__main__':
+    print maxDiscount([1,2,7,8,10,2]) == 7
+    print maxDiscount([8, 15, 16, 12, 20, 18, 16, 15]) == 28
+    print maxDiscount([10, 20, 17, 7, 16, 19, 16]) == 26
