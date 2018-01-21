@@ -1,7 +1,7 @@
 package circular_ring_buffer;
 
 public class Reader extends Thread {
-	private static RingBufferThreadSafe ringBuffer;
+	private final RingBufferThreadSafe ringBuffer;
 	private int Item;
 	public Reader(RingBufferThreadSafe ringBuffer) {
 		this.ringBuffer = ringBuffer;

@@ -1,14 +1,12 @@
 package circular_ring_buffer;
 
 public class Writer extends Thread {
-	private static RingBufferThreadSafe ringBuffer;
+	private final RingBufferThreadSafe ringBuffer;
 	private int item;
 
-	public Writer(RingBufferThreadSafe ringBuffer) {
+	public Writer(RingBufferThreadSafe ringBuffer,int Item) {
 		this.ringBuffer = ringBuffer;
-	}
-
-	public void writeItem(int item) {
+		this.item = Item;
 		start();
 	}
 

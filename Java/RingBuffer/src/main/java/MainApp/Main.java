@@ -6,7 +6,7 @@ import circular_ring_buffer.Reader;
 import circular_ring_buffer.RingBuffer;
 import circular_ring_buffer.RingBufferThreadSafe;
 import circular_ring_buffer.Writer;
-
+import java.util.concurrent.BlockingQueue;
 import java.util.Random;
 
 /**
@@ -18,20 +18,21 @@ public class Main {
 
 		Random random = new Random(1234);
 		for(int i = 0; i < 7; i++) {
-			int randomValue = random.nextInt();
-			Writer writer = new Writer(ringBufferThreadSafe);
-			writer.writeItem(randomValue);
+			int randomValue = random.nextInt() % 100;
+			System.out.println(randomValue);
+			Writer writer = new Writer(ringBufferThreadSafe, randomValue);
 		}
+
+		ringBufferThreadSafe.showItems();
 
 		for (int i = 0; i < 50; i ++) {
 			int randomValue = random.nextInt();
 			if (randomValue % 2 == 0) {
 				Reader reader = new Reader(ringBufferThreadSafe);
-				reader.getItem();
+				int Item = reader.getItem();
 				ringBufferThreadSafe.showItems();
 			} else if (randomValue % 3 == 0) {
-				Writer writer = new Writer(ringBufferThreadSafe);
-				writer.writeItem(randomValue);
+				Writer writer = new Writer(ringBufferThreadSafe, randomValue);
 				ringBufferThreadSafe.showItems();
 			}
 		}
